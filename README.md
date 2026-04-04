@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Привет! Я Матвей.
 
-<!--
-**imnokkip/imnokkip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий Python-разработчик. Учусь на прикладной информатике. Хочу создавать полезные веб-приложения и решать реальные задачи.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Мой стек:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+
+---
+
+### 🎯 Моя цель на 2026 год:
+> Найти первую работу Python-разработчиком, собрать портфолио из 3-х полноценных проектов и начать зарабатывать.
+
+---
+
+### 🚀 Проекты, которые я сейчас делаю:
+(Сюда потом добавлю ссылки на первый, второй и третий сайт)
+
+---
+
+### 📊 Моя активность:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_NICK&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Как со мной связаться:
+(Опционально, если хочешь оставить контакты)
