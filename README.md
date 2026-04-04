@@ -4,29 +4,23 @@
 
 ---
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
 ---
 
-### 🎯 Моя цель на 2026 год:
-> Найти первую работу Python-разработчиком, собрать портфолио из 3-х полноценных проектов и начать зарабатывать.
+### 🚀 Проекты в работе:
+**...**
 
 ---
 
-### 🚀 Проекты, которые я сейчас делаю:
-(Сюда потом добавлю ссылки на первый, второй и третий сайт)
+### 💻 Могу выполнить ваш заказ или проконсультирую новичков:
+<h3>МОЙ ПРОФИЛЬ КВОРК:</h3>
+
+[![Kwork](https://cdn-edge.kwork.ru/images/index/redesign/numbers-logo.svg?ver=2)](https://kwork.ru/user/matvey_sedyh)
 
 ---
-
-### 📊 Моя активность:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_NICK&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 📫 Как со мной связаться:
-(Опционально, если хочешь оставить контакты)
