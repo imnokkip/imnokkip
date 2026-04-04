@@ -1,8 +1,11 @@
 ## 👋 Добрый вечер!
 
-Студент 1 курса университета. Занимаюсь разработкой полезных скриптов, сайов и приложений. Часто эксперементирую с необычными технологиями и языками программирования.
+**Начинающий Python-разработчик** | Ищу заказы и первый коммерческий опыт.  
+Студент 1 курса. Пишу полезные скрипты, сайты и приложения. Экспериментирую с технологиями.
 
 ---
+
+### 🛠️ Мой стек:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -14,13 +17,11 @@
 ---
 
 ### 🚀 Проекты в работе:
-**...**
+- **Парсер вакансий** (Python + BeautifulSoup)
+- **TODO-лист с авторизацией** (Django + SQLite)
 
 ---
 
-### 💻 Могу выполнить ваш заказ или проконсультирую новичков:
-<h3>МОЙ ПРОФИЛЬ КВОРК:</h3>
+### 💻 Могу выполнить ваш заказ или проконсультировать новичков
 
-[![Kwork](https://cdn-edge.kwork.ru/images/index/redesign/numbers-logo.svg?ver=2)](https://kwork.ru/user/matvey_sedyh)
-
----
+[![Kwork](https://img.shields.io/badge/Kwork-Profile-00C4B3?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/matvey_sedyh)
