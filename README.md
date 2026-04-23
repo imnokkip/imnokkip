@@ -3,7 +3,7 @@
 **Python-backend разработчик**
 
 **Есть опыт:** от телеграм-ботов до API с авторизацией и детекцией рук.
-Упаковываю в Docker, решаю проблемы, пишу качественный код
+Упаковываю в Docker, решаю проблемы, пишу пишу читаемый код
 Сейчас учусь на 2-м курсе факультета "Прикладной Информатики".
 
 *Ищу проект, где нужен результат, а не 'потенциал'*
@@ -12,8 +12,6 @@
 
 ### 🛠️ Мой стек:
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
